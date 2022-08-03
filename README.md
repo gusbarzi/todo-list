@@ -9,7 +9,7 @@ Existem diversos pontos que eu gostaria de melhorar no projeto, acredito que exi
 ## Getting Started
 
 ```bash
-Faça um git clone https://github.com/gusbarzi/todolist-next.git
+git clone https://github.com/gusbarzi/todolist-next.git
 # and
 npm install
 ```
